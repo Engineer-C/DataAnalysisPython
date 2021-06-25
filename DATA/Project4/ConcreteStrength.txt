@@ -1,0 +1,17 @@
+Description: Concrete strength at 28 day is the representative property to show its performance as a structural material. Mix proportion of raw materials determines the strength development. The data provide various mix proportions to produce 1 cubic meter concrete and their strength at a specific age. 
+
+1. Cement (kg in a m^3 mixture)
+2. Ground-Granulated Blast Furnace Slag (kg in a m^3 mixture)
+3. Fly Ash (kg in a m^3 mixture)
+4. Water (kg in a m^3 mixture)
+5. Superplasticizer (kg in a m^3 mixture)
+6. Coarse Aggregate (kg in a m^3 mixture)
+7. Fine Aggregate (kg in a m^3 mixture)
+8. Age (day)
+9. Concrete compressive strength (MPa) 
+
+Source: Prof. I-Cheng Yeh, Department of Information Management, Chung-Hua University, Hsin Chu, Taiwan, August 3, 2007, Contact icyeh@chu.edu.tw
+
+Data entry: UCI Machine Learning Repository, https://archive.ics.uci.edu/ml/datasets/concrete+compressive+strength
+
+Labels: statistical inference; correlation
