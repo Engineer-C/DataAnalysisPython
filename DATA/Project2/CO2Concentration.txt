@@ -1,0 +1,11 @@
+Description: These data are made freely available to the public and the scientific community in the belief that their wide dissemination will lead to greater understanding and new scientific insights. The availability of these data does not constitute publication of the data.  NOAA relies on the ethics and integrity of the user to ensure that GML receives fair credit for their work.  If the data are obtained for potential use in a publication or presentation, GML should be informed at the outset of the nature of this work. If the GML data are essential to the work, or if an important result or conclusion depends on the GML data, co-authorship may be appropriate.  This should be discussed at an early stage in the work.  Manuscripts using the GML data should be sent to GML for review before they are submitted for publication so we can ensure that the quality and limitations of the data are accurately represented. Contact email: ed.dlugokencky@noaa.gov
+
+Field 1. 12 digits for a recording time (year month day hour minute)
+Field 2. CO2 concentration in ppm 
+
+Source: National Oceanic and Atmospheric Administration
+https://www.esrl.noaa.gov/gmd/aftp/data/trace_gases/co2/flask/surface/co2_mlo_surface-flask_1_ccgg_event.txt
+
+Data entry: Dongjin Jeong, KAIST, Mar 4, 2021
+
+Labels: data type; statistical inference
