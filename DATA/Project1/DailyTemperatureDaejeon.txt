@@ -1,0 +1,13 @@
+Description: Daily temperatures of Daejeon have been recorded. 
+1. Date
+2. ID of the weater station in Daejeon
+3. Daily temperature
+4. Daily minium temperature 
+5. Daily maximum temperature
+
+Source: Korea Meteorological Administration, National Climate Data Center
+https://data.kma.go.kr
+
+Data entry: Dongjin Jeong, KAIST, Mar 2, 2021
+
+Labels: data type

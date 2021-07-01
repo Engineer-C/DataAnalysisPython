@@ -1,0 +1,14 @@
+Description: Information of weater stations in Korea
+1. ID of a weater station
+2. City where the station is located
+3. Province where the station is located
+4. Latitude of the station
+5. Longitude of the station
+6. Altitude of the station
+
+Source: Korea Meteorological Administration, National Climate Data Center
+https://data.kma.go.kr
+
+Data entry: Dongjin Jeong, KAIST, Mar 2, 2021
+
+Labels: data type
