@@ -1,0 +1,8 @@
+﻿Description: Adsorption isotherm of Cobalt ions onto the hydroxyapatite beads at various temperatures is investigated. The experimental data for adsorption amount (qe in mg/g) and equilibrium concentration (Ce in mg/L) are colloected at a certain temperature. They are then fitted on Langmuir Isortherm model given by qe = qmax*K*Ce/(1+K*Ce), where qmax is the maximum adsorption amount (mg/g) and K is adsorption constant (L/mg). The main assumptions of Langmuir Isotherm Model for the adsorption process: (1) Adsorption occurs at specific binding sites that are localized on the surface of the adsorbent. (2) All adsorption sites on the surface of the adsorbent are identical. (3) The surface of the adsorbent is covered with a monolayer of adsorbed molecules. (4) There is no interaction between the adsorbed molecules on the adsorbent surface.
+
+Source: Tran TN, Kim J, Park J-S, Chung Y, Han J, Oh S, Kang S. Novel Hydroxyapatite Beads for the Adsorption of Radionuclides from Decommissioned Nuclear Power Plant Sites. Applied Sciences. 2021; 11(4):1746. 
+https://doi.org/10.3390/app11041746
+
+Data entry: Thi Nhung Tran, KAIST, Jan 25, 2021
+
+Labels: linear regression
