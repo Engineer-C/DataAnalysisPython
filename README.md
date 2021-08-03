@@ -20,3 +20,25 @@ The data analysis techniques handled in this repository is listed below.</br>
 All of the given data is included in the <i>DATA</i> directory.</br>
 <b>Note that data file for Project6 and Project7 is excluded, as the license of the data is not confirmed.</b></br>
 
+<H2>Result Example</H2>
+<H3>Project 1</H3>
+<div p align="center">
+<img src="https://raw.githubusercontent.com/Engineer-C/DataAnalysisPython/main/Results/Project1/3dMap.png" style="height: 30vw">
+</div>
+
+<H3>Project 3</H3>
+<div p align="center">
+<img src="https://raw.githubusercontent.com/Engineer-C/DataAnalysisPython/main/Results/Project3/PopulationProportion.png" style="height: 30vw"></br>
+</div>
+
+<H3>Project 5</H3>
+<div p align="center">
+<img src="https://raw.githubusercontent.com/Engineer-C/DataAnalysisPython/main/Results/Project5/3dView.png" style="height: 30vw"></br>
+</div>
+
+<H3>Project FinalExam</H3>
+<div p align="center">
+<img src="https://raw.githubusercontent.com/Engineer-C/DataAnalysisPython/main/Results/FinalExam/PredictionResults.png" style="height: 30vw"></br>
+<img src="https://raw.githubusercontent.com/Engineer-C/DataAnalysisPython/main/Results/FinalExam/PredictionResultsFeatureImportance.png" style="height: 30vw"></br>
+<img src="https://raw.githubusercontent.com/Engineer-C/DataAnalysisPython/main/Results/FinalExam/PCA.gif" style="height: 30vw"></br>
+</div>
