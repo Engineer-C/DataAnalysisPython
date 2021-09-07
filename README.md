@@ -2,6 +2,7 @@
 <H3><i>Basic Data Analysis and Visualization in Python</i></H3>
 
 This repository is archived version of the projects submitted by author for the CE553 course in KAIST.</br>
+Also some extra projects are added after to archive some visualizing results.</br>
 
 <H2>Techniques in the Project</H2>
 The data analysis techniques handled in this repository is listed below.</br>
